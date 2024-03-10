@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there! I'm Dafne. I went through at career change at 30 to become a developer, and I create this blog to document my discoveries in programming in a way that's relatable and easy to understand.
+Hi there! I'm Dafne. I went through at career change at 30 to become a developer, and I created this blog to document my discoveries in programming in a way that's relatable and easy to understand.
 
 ### More Information
 
